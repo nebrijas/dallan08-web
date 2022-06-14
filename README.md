@@ -19,3 +19,4 @@ En este [enlace](https://www.elmundo.es/ciencia-y-salud/medio-ambiente/2021/12/3
 Algo interesante también fue que sus autores contaron los detalles del trabajo realizado por semanas, la metodología y como llevaron a cabo la búsqueda de ciertas informaciones. Un trabajo arduo y que no se hace de la noche a la mañana. El lector puede saber cómo obtuvieron esos datos para llevarlos al medio digital. 
 
 
+![Rinoceronte](https://e00-elmundo.uecdn.es/assets/multimedia/imagenes/2021/12/29/16408144710211.jpg)
