@@ -24,5 +24,5 @@ Algo interesante también fue que sus autores contaron los detalles del trabajo 
 
 ## Actividades dirigidas
 
-- [Actividad_dirigida_1](ad1.md)
+- [Actividad_dirigida_1](Ad1.md)
 - [Actividad_dirigida_2](ad2.md)
