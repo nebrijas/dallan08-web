@@ -1,4 +1,4 @@
-# Actividad dirigida 1
+# Repositorio de trabajo del modulo de periodismo de datos II
 
 Esta actividad consiste en comentar una pieza de periodismo de datos, visualización de datos o infografía con respecto a todo lo que previo a este máster o sobre los contenidos de este curso.
 
@@ -20,3 +20,9 @@ Algo interesante también fue que sus autores contaron los detalles del trabajo 
 
 
 ![Rinoceronte](https://e00-elmundo.uecdn.es/assets/multimedia/imagenes/2021/12/29/16408144710211.jpg)
+
+
+## Actividades dirigidas
+
+- [Actividad_dirigida_1](ad1.md)
+- [Actividad_dirigida_2](ad2.md)
