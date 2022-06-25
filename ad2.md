@@ -1,7 +1,13 @@
 # Actividad dirigida 2
 
-<<<<<<< HEAD
-# Practicando con git bash 
+
+En esta actividad mi repositorio pasó a ser una web. 
+
+# ¿Cómo lo hice?
+
+Para lograrlo utilicé Github como un servidor de git y además, funcionó como un servidor web 
+Para conseguirlo usamos la funcionalidad de Github para funcionar como servidor de git y como servidor web.
+
 =======
 Practicando con git bash
->>>>>>> bc713e0e7c2d04c476e893a3689f1a0d89f8d086
+
