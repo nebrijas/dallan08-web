@@ -1,6 +1,7 @@
 ## Actividad dirigida 2
 
 
+<<<<<<< HEAD
 En esta actividad mi repositorio pasó a ser una web. **¡Un gran reto!** 
 
 # ¿Cómo lo hice?
@@ -18,3 +19,5 @@ Para conseguirlo usamos la funcionalidad de Github para funcionar como servidor 
 - Una vez cree el archivo ad1.md, me fui a mi repositorio a modificar la información de la **Actividad dirigida 1** sobre el reportaje, ya que inicialmente se había trabajado en README.md 
 - El README.md ha pasado hacer como el Index de mi repositorio.
 - Voy a ir agregando otros pasos.
+=======
+>>>>>>> d42e029b5e8e1623d784f6b6052b5836bc8604b1
