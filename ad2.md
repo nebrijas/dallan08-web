@@ -17,5 +17,5 @@ Para conseguirlo usamos la funcionalidad de Github para funcionar como servidor 
 - Para ir trabajando en la terminar utilicé un **ls** para ver los archivos de las carpetas. Para mí ha sido como una guía a ver si voy bien o mal. 
 - Una vez cree el archivo ad1.md, me fui a mi repositorio a modificar la información de la **Actividad dirigida 1** sobre el reportaje, ya que inicialmente se había trabajado en README.md 
 - El README.md ha pasado hacer como el Index de mi repositorio. 
-
+- Continúo con la edición. 
 Continuando con la actividad 2
