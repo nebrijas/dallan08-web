@@ -1,6 +1,8 @@
 # Repositorio de trabajo del módulo PERIODISMO DE DATOS II
 
-#Actividades-Indice 
+## Actividades
+
+### Indice 
 
 
 - [Actividad_dirigida_1](ad1.md)
